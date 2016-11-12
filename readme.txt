@@ -5,3 +5,4 @@ git and hg same
 
 git tracks changes
 git tracks changes two
+Creating a new branch is quick.
